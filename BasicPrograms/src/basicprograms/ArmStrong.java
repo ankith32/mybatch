@@ -23,7 +23,7 @@ public class ArmStrong {
 
 		if(temp==c)
 		{
-			System.out.println("armstrong number");
+			System.out.println("armstrong number12333333");
 		}
 		else
 			System.out.println("not armstrong number");
